@@ -1,6 +1,6 @@
 # Hi, I'm Cerina 👋
 
-<img width="1024" height="1024" alt="cerinalogo" src="https://github.com/user-attachments/assets/e26f5a2f-a5ac-4314-badb-9cf6a0212b92" />
+<img width="1024" height="1024" alt="cerinalogo (1)" src="https://github.com/user-attachments/assets/bcde302e-ad2c-44bd-a17b-92a85f7d1996" />
 
 
 Data Scientist specializing in Marketing Analytics, MMM, and ROI Optimization.
