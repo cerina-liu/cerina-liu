@@ -29,5 +29,5 @@ Python | SQL | Excel | Tableau | PowerPoint
 
 ## Contact
 
-LinkedIn: add your LinkedIn link here  
-Email: add your email here
+LinkedIn: https://www.linkedin.com/in/lzcerina/
+Email: rhcerina@gmail.com
