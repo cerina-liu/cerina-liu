@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Cerina 👋
 
-<!--
-**cerina-liu/cerina-liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data scientist focused on marketing analytics, media measurement, and business-driven insights.
 
-Here are some ideas to get you started:
+My work focuses on connecting data, modeling, and storytelling to help teams understand media performance and make better investment decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Work On
+
+- Marketing Mix Modeling (MMM)
+- ROI and ROAS analysis
+- Media performance measurement
+- Budget optimization and scenario planning
+- Data visualization and client-facing reporting
+
+## Featured Project Areas
+
+### Marketing Mix Modeling Case Study
+A business-focused project showing how media spend can be connected to performance outcomes, contribution analysis, and investment recommendations.
+
+### ROI Optimization Case Study
+A portfolio project focused on turning model outputs into practical budget allocation recommendations.
+
+### Marketing Analytics Dashboard
+A dashboard-style project designed to summarize media performance, trends, and key business insights.
+
+## Tools
+
+Python | SQL | Excel | Tableau | PowerPoint
+
+## Contact
+
+LinkedIn: add your LinkedIn link here  
+Email: add your email here
