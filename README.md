@@ -1,33 +1,33 @@
 # Hi, I'm Cerina 👋
 
-I am a data scientist focused on marketing analytics, media measurement, and business-driven insights.
+Data Scientist specializing in Marketing Analytics, MMM, and ROI Optimization.
 
-My work focuses on connecting data, modeling, and storytelling to help teams understand media performance and make better investment decisions.
+I focus on turning marketing data into clear business insights, helping teams understand performance and make better investment decisions.
 
-## What I Work On
+## What I Do
 
 - Marketing Mix Modeling (MMM)
-- ROI and ROAS analysis
-- Media performance measurement
-- Budget optimization and scenario planning
-- Data visualization and client-facing reporting
+- Media contribution and ROI analysis
+- Budget allocation and optimization
+- Incrementality testing and measurement strategy
+- Client-facing insights and storytelling
 
-## Featured Project Areas
+## Featured Work
 
-### Marketing Mix Modeling Case Study
-A business-focused project showing how media spend can be connected to performance outcomes, contribution analysis, and investment recommendations.
+### MMM Case Study
+End-to-end example showing how media spend drives performance, including contribution analysis and business recommendations.
 
-### ROI Optimization Case Study
-A portfolio project focused on turning model outputs into practical budget allocation recommendations.
+### ROI Optimization Project
+A practical project translating model outputs into budget allocation strategies.
 
-### Marketing Analytics Dashboard
-A dashboard-style project designed to summarize media performance, trends, and key business insights.
+### Marketing Performance Dashboard
+A visualization-focused project summarizing media trends, performance, and insights.
 
 ## Tools
 
-Python | SQL | Excel | Tableau | PowerPoint
+Python | SQL | Excel | Tableau
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/lzcerina/
-Email: rhcerina@gmail.com
+LinkedIn: (add your link)  
+Email: (add your email)
