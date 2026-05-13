@@ -29,5 +29,5 @@ Python | SQL | Excel | Tableau
 
 ## Contact
 
-LinkedIn: (add your link)  
-Email: (add your email)
+LinkedIn: https://www.linkedin.com/in/lzcerina/
+Email: rhcerina@gmail.com
