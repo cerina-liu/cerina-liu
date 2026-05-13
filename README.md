@@ -1,4 +1,5 @@
 # Hi, I'm Cerina 👋
+<img width="1254" height="1254" alt="ChatGPT Image May 13, 2026, 05_00_20 PM" src="https://github.com/user-attachments/assets/6c5bcbd4-2949-4937-93b9-ee85d47f0586" />
 
 Data Scientist specializing in Marketing Analytics, MMM, and ROI Optimization.
 
