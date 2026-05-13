@@ -1,6 +1,5 @@
 # Hi, I'm Cerina 👋
-
-<img width="1024" height="1024" alt="cerinalogo (1)" src="https://github.com/user-attachments/assets/054b3249-c54a-4434-9749-3b6729dff087" />
+<img src="https://github.com/user-attachments/assets/054b3249-c54a-4434-9749-3b6729dff087" width="100" style="border-radius:50%;">
 
 
 
